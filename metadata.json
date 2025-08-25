@@ -1,0 +1,8 @@
+{
+  "name": "AI Fashion Outfit Recommender",
+  "description": "An AI-powered fashion recommendation system. Upload a clothing item, and the app will analyze it and suggest three complete outfits based on your preferences for gender and occasion. It uses AI to analyze the item and generate images for the recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
